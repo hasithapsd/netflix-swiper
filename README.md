@@ -1,4 +1,4 @@
-# Netflix like swiper implementation using REACT, MUI, swipwe.js
+# Netflix like swiper implementation using React, MUI, swiper.js
 
 ## codesandbox 
   https://g92t2n-3000.preview.csb.app/
