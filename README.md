@@ -1,8 +1,9 @@
 # Netflix like swiper implementation using React, MUI, swiper.js
 
 ## codesandbox 
-  https://g92t2n-3000.preview.csb.app/
-  https://codesandbox.io/p/github/hasithapsd/netflix-swiper/master?file=%2FREADME.md
+  `https://g92t2n-3000.preview.csb.app/`
+  
+  `https://codesandbox.io/p/github/hasithapsd/netflix-swiper/master?file=%2FREADME.md`
 
 
 ## Getting Started with Create React App
